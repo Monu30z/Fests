@@ -4,8 +4,8 @@ A single-page, romantic confession website. It opens with a sealed envelope, pla
 
 Works for any partner (boyfriend or girlfriend) — the text is gender-neutral.
 
-**Live page:** https://claude.ai/artifact/ByGdoXUneSY7Vyj5fLD5oz
-**Live page:** https://claude.ai/artifact/ByGdoXUneSY7Vyj5fLD5oz
+
+**Live page:** [https://claude.ai/artifact/ByGdoXUneSY7Vyj5fLD5oz](https://fests-i.vercel.app/)
 
 ---
 
